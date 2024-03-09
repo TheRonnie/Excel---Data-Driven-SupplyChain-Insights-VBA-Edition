@@ -1,0 +1,2 @@
+# Excel---Data-Driven-SupplyChain-Insights-VBA-Edition
+Loan Applicant Data Analysis: Utilize VBA for conditional formatting, freezing panes, PDF conversion, and spell check. Create pivot charts for gender ratio, car and house ownership, income type, education level, housing type, family status, and occupation type. Summarize income and loan amount for male and female clients using list functions. 
